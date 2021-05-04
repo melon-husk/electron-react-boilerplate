@@ -1,5 +1,3 @@
-
-
 ## Install
 
 First, clone the repo via git and install dependencies:
@@ -25,5 +23,3 @@ To package apps for the local platform:
 ```bash
 yarn package
 ```
-
-
